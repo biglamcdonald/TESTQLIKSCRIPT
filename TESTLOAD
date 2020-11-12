@@ -1,4 +1,5 @@
 Fruit:
 LOAD * INLINE [1,2
 Apple, 3
-Orange, 2];
+Orange, 2
+Banana, 23];
