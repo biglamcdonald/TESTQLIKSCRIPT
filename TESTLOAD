@@ -1,8 +1,9 @@
-Fruit:
-LOAD * INLINE [1,2
-Apple, 3
-Orange, 2
-Kiwis, 25
-];
-
-TRACE Vegetables are lame;
+Line|TEXT
+1|Fruit:
+2|LOAD * INLINE [1,2
+3|Apple, 3
+4|Orange, 2
+5|Kiwis, 25
+6|];
+7|
+8|TRACE Vegetables are lame;
